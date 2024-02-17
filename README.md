@@ -1,4 +1,4 @@
-# **SOBRE O REPOSITÓRIO:**:
+# **SOBRE O REPOSITÓRIO:**
 
 Este é um repositório com projetos de automatização de processos via web-automation que desenvolvi.
 

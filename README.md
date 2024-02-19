@@ -19,4 +19,4 @@ A partir das bibliotecas selenium, webdriver e pandas, criamos um robô que exec
 Essa metodologia também é conhecida como Web Automation. O código está bem robusto com diversos recursos para agir diante de erros que podem acontecer durante a execução, sejam eles por conta de queda do servidor ou por questões relacionadas à má conexão de rede e ao próprio HTML do site. Porém, pode ser que novas alterações sejam necessárias com o tempo para a evolução e a robustez do robô. 
 
 
-***Developers: Marcilio Duarte e Victor Hugo (@crvalhohugo).***
+***Developers: Marcilio Duarte e ([Victor Hugo](https://github.com/crvalhohugo/)).***
